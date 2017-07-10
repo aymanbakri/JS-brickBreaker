@@ -1,0 +1,12 @@
+#myCanvas {
+    background-image: url("1.jpg");
+    background-repeat: no-repeat;
+    width:1000px;
+    height:650px;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin:auto;
+}
